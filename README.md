@@ -15,3 +15,7 @@
 * C++ Crash Course by Josh Lospinoso Chapter 2
 * [MSDN Destructors](https://docs.microsoft.com/en-us/cpp/cpp/destructors-cpp?view=msvc-160)
 * [Programiz](https://www.programiz.com/cpp-programming/object-class)
+
+## Resources for header files
+* [Header Files](https://docs.microsoft.com/en-us/cpp/cpp/header-files-cpp?view=msvc-160)
+* [Once pragma](https://docs.microsoft.com/en-us/cpp/preprocessor/once?view=msvc-160)

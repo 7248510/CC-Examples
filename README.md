@@ -1,4 +1,8 @@
 # Practical-CC
+## Recommended books:
+* C++ Crash Course by Josh Lospinoso
+* A Tour of C++ 2nd edition by Bjarne Stroustrup
+
 ## Smart pointers and raw pointers:
 ### The files should compile on Linux & Windows && This repository is C++ concepts
 * [Shared pointers MSDN](https://docs.microsoft.com/en-us/cpp/standard-library/shared-ptr-class?view=msvc-160)

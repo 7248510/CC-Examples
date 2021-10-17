@@ -23,3 +23,7 @@
 ## Header files:
 * [Header Files](https://docs.microsoft.com/en-us/cpp/cpp/header-files-cpp?view=msvc-160)
 * [Once pragma](https://docs.microsoft.com/en-us/cpp/preprocessor/once?view=msvc-160)
+
+## Format:
+* cl /EHsc format.cc /sdl /W4 /std:c++latest = Compile with MSVC
+* [Format explained cpp reference](https://en.cppreference.com/w/cpp/utility/format/format)

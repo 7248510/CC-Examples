@@ -2,6 +2,7 @@
 ## Recommended books:
 * C++ Crash Course by Josh Lospinoso
 * A Tour of C++ 2nd edition by Bjarne Stroustrup
+* Beginning C++ 20
 
 ## Smart pointers and raw pointers:
 ### The files should compile on Linux & Windows && This repository is C++ concepts
@@ -27,3 +28,7 @@
 ## Format:
 * cl /EHsc format.cc /sdl /W4 /std:c++latest = Compile with MSVC
 * [Format explained cpp reference](https://en.cppreference.com/w/cpp/utility/format/format)
+
+## Modules:
+* [MSDN](https://docs.microsoft.com/en-us/cpp/cpp/modules-cpp?view=msvc-160)
+* Open Visual Studio's installer -> Modify -> Individual Components -> C++ -> check modules & update your tools

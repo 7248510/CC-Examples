@@ -3,6 +3,7 @@
 * C++ Crash Course by Josh Lospinoso
 * A Tour of C++ 2nd edition by Bjarne Stroustrup
 * Beginning C++ 20
+* Professional C++ 20 5th edition
 
 ## Smart pointers and raw pointers:
 ### The files should compile on Linux & Windows && This repository is C++ concepts
